@@ -1,2 +1,1 @@
-# Algorithms-Data-Structures
-MIPT Algos Course
+# Algorithms and Data Structures
